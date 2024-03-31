@@ -6,6 +6,10 @@
 
 The Open Source Agent Workflow project is a showcase of the capabilities and potential of agent-based systems. It provides a comprehensive overview of how to create agent systems, along with the possibilities and challenges involved, serving as a valuable resource for developers and researchers interested in this exciting field.
 
+## Credits
+
+Newsletter Agent is Inspired by the https://github.com/mshumer/ai-journalist and Andrew NG Talk
+
 ## Goals and Capabilities
 
 - Demonstrate the power and flexibility of agent-based workflows
