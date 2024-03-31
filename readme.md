@@ -23,7 +23,7 @@ The Open Source Agent Workflow project is a showcase of the capabilities and pot
 
 To get started with the Open Source Agent Workflow project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/AskJunior/Workflow-AI.git`
 2. Set up the necessary environment and dependencies (detailed instructions provided in the documentation)
 3. Explore the sample agents and workflows provided in the project repository
 4. Create your own custom agents and integrate them into the system
